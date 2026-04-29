@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Reviewed security headers configuration
 - Bumped patch version
+
+## 2026-04-29
+- Removed unused variable declarations
